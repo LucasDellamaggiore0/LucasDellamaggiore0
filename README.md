@@ -1,10 +1,10 @@
-<h1 align="center">Hola, soy Lucas</h1>
+<h1 align="center">Hola, soy Lucas 👋</h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LDellamaggiore)](https://twitter.com/LDellamaggiore)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucasdellamaggiore0/)](https://linkedin.com/in/lucasdellamaggiore0/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=flat&logo=whatsapp&logoColor=222222)](https://wa.me/543585100768)
 
-## Sobre mi :wave:
+## Sobre mi:
 
     💡  Creativo
     🧠 Amo el aprendizaje continuo
