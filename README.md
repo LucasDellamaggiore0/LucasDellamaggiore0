@@ -8,7 +8,7 @@
 
     💡  Creativo
     🧠 Amo el aprendizaje continuo
-    💻 Amo escriir código
+    💻 Amo escribir código
     
     
 
