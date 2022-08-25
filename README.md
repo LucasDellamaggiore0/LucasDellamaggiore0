@@ -1,52 +1,14 @@
-<h1 align="center">Hola, soy Lucas 👋</h1>
+<h1 align="center">Hola 👋, soy Lucas</h1>
+<h3 align="justify">Cuando descrubrí el mundo del desarrollo web, quedé totalmente enamorado y supe desde el primer momento que es lo que me apasiona. Desde ese día, no paro de investigar, estudiar y codear todos los días, es mi motivación de cada mañana con mates y cafecitos de por medio. Tengo mucho que aprender? Obvio, muchísimo. Aprendí muchas cosas? Por supuesto que sí, y no me arrepiento en lo absoluto. Me atormenta saber que tengo mucho recorrido por delante aún? Jamás, el hecho de saber que tengo mucho recorrido por delante, me hace enfocarme y proponerme objetivos, en los cuales no voy a parar hasta lograrlos. Debo admitir, que en los primeros pasos en el desarrollo web, todo parecía indicar que el front-end era lo que mas me gustaba, era donde mas cómodo me sentía hasta que un día, aprendí las tecnologías para desarrollar el back-end, y mi pensamiento cambio absolutamente, quede fascinado desarrollando back-end. Aclaro también que desarrollar front-end lo disfruto también. Encontrarán en mí una persona responsable, perseverante, autodidacta, curioso, creativo y con una gran capacidad de trabajo en equipo.</h3>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LDellamaggiore)](https://twitter.com/LDellamaggiore)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucasdellamaggiore0/)](https://linkedin.com/in/lucasdellamaggiore0/)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=flat&logo=whatsapp&logoColor=222222)](https://wa.me/543585100768)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/LucasDellamaggiore0](https://github.com/LucasDellamaggiore0)
 
-## Sobre mi:
-    
-    Cuando descrubrí el mundo del desarrollo web, quedé totalmente enamorado y supe desde el primer momento que es lo que me apasiona.
-    Desde ese día, no paro de investigar, estudiar y codear todos los días, es mi motivación de cada mañana con mates y cafecitos de por medio.
-    Tengo mucho que aprender? Obvio, muchísimo.
-    Aprendí muchas cosas? Por supuesto que sí, y no me arrepiento en lo absoluto.
-    Me atormenta saber que tengo mucho recorrido por delante aún? Jamás, el hecho de saber que tengo mucho recorrido por delante, me hace enfocarme y proponerme           objetivos, en los cuales no voy a parar hasta lograrlos.
-    
-    Debo admitir, que en los primeros pasos en el desarrollo web, todo parecía indicar que el front-end era lo que mas me gustaba, era donde mas cómodo me sentía
-    hasta que un día, aprendí las tecnologías para desarrollar el back-end, y mi pensamiento cambio absolutamente, quede fascinado desarrollando back-end.
-    Aclaro también que desarrollar front-end lo disfruto también.
-    
-    Encontrarán en mí una persona responsable, perseverante, autodidacta, curioso, creativo y con una gran capacidad de trabajo en equipo.
-    
-    
+- 📄 Conocé mis experiencias [https://drive.google.com/file/d/1GNbCiq-rRegqGKRXq0cRA_XdiZd7jZKM/view?usp=sharing](https://drive.google.com/file/d/1GNbCiq-rRegqGKRXq0cRA_XdiZd7jZKM/view?usp=sharing)
 
-<!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasdellamaggiore0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasdellamaggiore0/" height="30" width="40" /></a>
+</p>
 
-## Tecnologías :books:
-
-#### Software:
-
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
-
-#### Front-end:
-
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux&logoColor=7248b6)
-![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=HTML5&logoColor=7248b6)
-![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=CSS3&logoColor=7248b6)
-![Less](https://img.shields.io/badge/-Less-222222?style=flat&logo=Less&logoColor=7248b6)
-#### Back-end:
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
-![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=Sequelize&logoColor=00d632)
-
-#### Editores y Sistemas Operativos:
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Sublime Text](http://img.shields.io/badge/-Sublime-Text?style=flat-square&logo=sublime-text&logoColor=ffffff)
-![Py Charm](http://img.shields.io/badge/-Py-Charm?style=flat-square&logo=pycharm&logoColor=ffffff)
-<hr/>
+<h3 align="left">Lenguajes y Herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
